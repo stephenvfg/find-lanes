@@ -1,0 +1,4 @@
+# Ignore the python checkpoints and other hidden files
+.git/
+.gitattributes
+.ipynb_checkpoints/
