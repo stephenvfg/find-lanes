@@ -1,7 +1,7 @@
 # **Finding Lane Lines on the Road** 
 
 [//]: # (Image References)
-[Grayscale]: ./writeup/img-pipeline-greyscale.png "Grayscale"
+[Grayscale]:  "Grayscale"
 [Blur]: ./writeup/img-pipeline-blur.png "Blur"
 [Edges]: ./writeup/img-pipeline-edges.png "Edges"
 [Masked]: ./writeup/img-pipeline-masked.png "Masked"
@@ -20,7 +20,7 @@
 My pipeline consisted of six steps.
 
 1. I converted the image to grayscale to prepare the image for the next steps.
-![Grayscale](Grayscale=600x)
+<img src="./writeup/img-pipeline-greyscale.png" width="600" />
 2. I applied a Gaussian Blur to the image to make edge detection more accurate.
 ![Blur](Blur=600x)
 3. I used Canny Edge Detection to produce an outline of all the edges discovered in the image.
