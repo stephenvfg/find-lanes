@@ -1,17 +1,17 @@
 # **Finding Lane Lines on the Road** 
 
 [//]: # (Image References)
-[Grayscale]: ./writeup/img-pipeline-greyscale.jpg "Grayscale"
-[Blur]: ./writeup/img-pipeline-blur.jpg "Blur"
-[Edges]: ./writeup/img-pipeline-edges.jpg "Edges"
-[Masked]: ./writeup/img-pipeline-masked.jpg "Masked"
-[HoughLines]: ./writeup/img-pipeline-houghlines.jpg "Hough Lines"
-[Extrapolated]: ./writeup/img-pipeline-extrapolated.jpg "Extrapolated"
+[Grayscale]: ./writeup/img-pipeline-greyscale.png "Grayscale"
+[Blur]: ./writeup/img-pipeline-blur.png "Blur"
+[Edges]: ./writeup/img-pipeline-edges.png "Edges"
+[Masked]: ./writeup/img-pipeline-masked.png "Masked"
+[HoughLines]: ./writeup/img-pipeline-houghlines.png "Hough Lines"
+[Extrapolated]: ./writeup/img-pipeline-extrapolated.png "Extrapolated"
 [Composite]: ./writeup/img-pipeline-composite.jpg "Composite"
-[VideoPipeline]: ./writeup/video-pipeline-done.jpg "Video Pipeline"
-[ChallengeProblem]: ./writeup/challenge-problem.jpg "Challenge Problem"
-[Yellow-WhiteMask]: ./writeup/challenge-img-pipeline-ywmask.jpg "Yellow-White Mask"
-[ChallengeSolved]: ./writeup/challenge-problem.jpg "Challenge Solved"
+[VideoPipeline]: ./writeup/video-pipeline-done.png "Video Pipeline"
+[ChallengeProblem]: ./writeup/challenge-problem.png "Challenge Problem"
+[Yellow-WhiteMask]: ./writeup/challenge-img-pipeline-ywmask.png "Yellow-White Mask"
+[ChallengeSolved]: ./writeup/challenge-problem.png "Challenge Solved"
 
 ### Reflection
 
